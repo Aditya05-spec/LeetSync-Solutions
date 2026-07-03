@@ -1,0 +1,1 @@
+This solution finds the minimum number in a rotated sorted array with an efficient O(log n) runtime using a binary search approach.
