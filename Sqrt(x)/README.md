@@ -1,0 +1,1 @@
+This solution efficiently calculates the integer square root of a number using a binary search method, making it faster than a simple linear search approach.
