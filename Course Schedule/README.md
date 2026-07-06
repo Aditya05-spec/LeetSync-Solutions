@@ -1,0 +1,1 @@
+This function checks whether it is possible to complete all courses given the prerequisites using a topological sort approach.
