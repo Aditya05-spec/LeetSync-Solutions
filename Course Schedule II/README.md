@@ -1,0 +1,1 @@
+This solution implements Kahn's algorithm for detecting cycles and performing topological sorting within a directed graph representation of courses and prerequisites.
