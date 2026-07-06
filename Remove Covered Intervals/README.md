@@ -1,0 +1,1 @@
+This solution implements an approach to remove covered intervals by sorting the intervals based on their start and end points and leveraging a greedy method to count uncovered intervals.
