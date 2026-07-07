@@ -1,0 +1,1 @@
+This solution finds the path with the minimum effort required to traverse a 2D grid where each cell has a height, and effort is defined as the maximum height difference between adjacent cells on the path.
