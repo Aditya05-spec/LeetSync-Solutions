@@ -1,0 +1,1 @@
+The Word Ladder problem requires finding the shortest transformation sequence from a given beginWord to an endWord such that only one letter can be changed at a time, and each transformed word must exist in a provided word list.
